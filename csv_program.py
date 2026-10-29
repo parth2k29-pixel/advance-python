@@ -6,10 +6,10 @@ with open("info.csv", "w") as file:
 
     writer.writerow(["RollNo", "Name", "Marks"])
 
-    writer.writerow([45, "Sahil", 90])
+    writer.writerow([37, "parth", 90])
 
-    writer.writerow([68, "Sarthak", 91])
+    writer.writerow([38, "utkarsh", 91])
 
-    writer.writerow([66, "Yug", 92])
+    writer.writerow([39, "pate", 92])
 
 print("Data Written Successfully!!")
