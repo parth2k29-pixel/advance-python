@@ -24,7 +24,7 @@ These assignments are created for educational purposes as part of my university 
 
 ##  Author
 
-**Sahil**
+**Parth**
 
 B.Tech Computer Science & Engineering (CSE)
 
